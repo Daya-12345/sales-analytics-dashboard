@@ -1,11 +1,23 @@
 # Sales Analytics Dashboard
 
+![Dashboard Preview](dashboard_screenshot.png)
+
+## Key Highlights
+
+- Built an interactive **Power BI dashboard** to analyze sales performance.
+- Implemented KPI metrics including **Total Sales, Orders, Customers, and Profit**.
+- Visualized **monthly sales trends, top-selling products, and geographic sales distribution**.
+- Enabled business insights through **data visualization and analytics**.
+
 This project presents a Sales Analytics Dashboard built using Power BI to analyze sales performance, product trends, and regional distribution.
 
-## Tools Used
+## Tools & Technologies
+
 - Power BI
-- Python (Pandas) for data preprocessing
-- Kaggle Superstore dataset
+- Python (Pandas)
+- Data Visualization
+- Business Intelligence
+- Kaggle Superstore Dataset
 
 ## Dashboard Features
 - Total Sales, Orders, Customers, and Profit KPIs
