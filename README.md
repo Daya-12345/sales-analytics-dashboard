@@ -2,14 +2,14 @@
 
 ![Dashboard Preview](dashboard_screenshot.png)
 
+This project presents a Sales Analytics Dashboard built using Power BI to analyze sales performance, product trends, and regional distribution.
+
 ## Key Highlights
 
 - Built an interactive **Power BI dashboard** to analyze sales performance.
 - Implemented KPI metrics including **Total Sales, Orders, Customers, and Profit**.
 - Visualized **monthly sales trends, top-selling products, and geographic sales distribution**.
 - Enabled business insights through **data visualization and analytics**.
-
-This project presents a Sales Analytics Dashboard built using Power BI to analyze sales performance, product trends, and regional distribution.
 
 ## Tools & Technologies
 
@@ -35,3 +35,5 @@ This project presents a Sales Analytics Dashboard built using Power BI to analyz
 - `sales_analytics_dashboard.pbix` – Power BI dashboard
 - `clean_sales_data.csv` – Processed dataset
 - `dashboard_screenshot.png` – Dashboard preview
+
+
