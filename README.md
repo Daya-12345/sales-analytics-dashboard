@@ -1,6 +1,6 @@
 # Sales Analytics Dashboard
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](dashboard_screenshot.jpg)
 
 This project presents a Sales Analytics Dashboard built using Power BI to analyze sales performance, product trends, and regional distribution.
 
